@@ -1,8 +1,8 @@
 print("Choose a NUMBER: ")
-print ("1. Add")
-print ("2. Subtract")
-print ("3. Multiply")
-print ("4. Divide")
+print ("3. Addition")
+print ("4. Subtraction")
+print ("5. Multiplication")
+print ("5. Division")
 
 NUMBER = input()
 
